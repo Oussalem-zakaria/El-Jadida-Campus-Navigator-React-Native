@@ -1,0 +1,60 @@
+import { StyleSheet } from "react-native";
+
+export const addLocationStyle = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+  title: {
+    fontSize: 24,
+    fontWeight: "bold",
+    marginBottom: 20,
+    color: "#333",
+    textAlign: "center",
+    borderBottomWidth: 1,
+    borderBottomColor: "#eee",
+    paddingBottom: 12,
+  },
+  input: {
+    height: 40,
+    borderColor: "gray",
+    borderWidth: 1,
+    marginBottom: 20,
+    borderRadius: 5,
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+  },
+  imageContainer: {
+    alignItems: "center",
+    marginVertical: 20,
+  },
+  backgroundImage: {
+    flex: 1,
+    resizeMode: "cover",
+    padding: 10,
+  },
+  cardContainer: {
+    // width: '100%',
+    // gap: 20,
+    // backgroundColor: '#eee',
+    // padding: 20,
+    paddingVertical: 10,
+    zIndex: 1,
+    opacity: 0.95,
+    paddingHorizontal: 20,
+    gap: 20,
+    backgroundColor: "#fff",
+    borderRadius: 8,
+    borderWidth: 1,
+    borderColor: "#ccc",
+    shadowColor: "black",
+    shadowOffset: {
+      width: 0,
+      height: 2,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 5,
+    width: '100%',
+  },
+});
