@@ -35,7 +35,8 @@ The main goal of this project is to develop a mobile application that displays a
 
 Here are some screenshots of the app in action:
 # Authentication Screens :
-![Auth](https://github.com/user-attachments/assets/729f3750-5068-4b6f-9742-2e4e74914bc2)
+![Auth](https://github.com/user-attachments/assets/905ef725-fd7f-4a8a-9868-6f13519aec8a)
+
 
 # Home Screens :
 ![Home](https://github.com/user-attachments/assets/444029a2-8e4b-4c06-afc8-5cbb6cc4bc3c)
