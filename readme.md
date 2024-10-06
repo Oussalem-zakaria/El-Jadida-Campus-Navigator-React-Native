@@ -31,6 +31,11 @@ The main goal of this project is to develop a mobile application that displays a
 
 - npx react-native run-android
 
+## Screenshots
+
+Here are some screenshots of the app in action:
+
+
 ## Contact
 
 Oussalem zakaria - oussalem.z596@ucd.ac.ma
