@@ -49,4 +49,4 @@ Here are some screenshots of the app in action:
 
 ## Contact
 
-Oussalem zakaria - oussalem.z596@ucd.ac.ma
+Oussalem zakaria - zakaryaoussalem@gmail.com
